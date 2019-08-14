@@ -1,5 +1,5 @@
 # MSR
-Code for Mobile Sequential Recommendation Problems
+This code is for the project Mobile Sequential Recommendation Problems. There are multiple papers under this topic.
 
 # Under the folder KDD2018
 This code is for the paper:
